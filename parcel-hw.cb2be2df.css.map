@@ -1,0 +1,1 @@
+{"mappings":"ACAA","sources":["parcel-hw.cb2be2df.css","src/style.css"],"sourcesContent":["h1 {\n  color: #8a2be2;\n  font-style: oblique;\n}\n/*# sourceMappingURL=parcel-hw.cb2be2df.css.map */\n","h1 {\r\n  font-style: oblique;\r\n  color: blueviolet;\r\n}"],"names":[],"version":3,"file":"parcel-hw.cb2be2df.css.map"}
